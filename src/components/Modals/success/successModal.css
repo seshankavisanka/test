@@ -1,0 +1,22 @@
+.popupModalS {
+  z-index: 3;
+  width: 100%;
+  height: 90%;
+  background-color: rgba(255, 255, 255, 0.489);
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modalContainerS {
+  width: 250px;
+  height: 250px;
+  border-radius: 500px;
+  background-color: rgb(252, 252, 252);
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+}
